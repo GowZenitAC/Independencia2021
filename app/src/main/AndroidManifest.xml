@@ -18,12 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Bienvenida"></activity>
-        <activity android:name=".Independencia1"></activity>
-        <activity android:name=".Independencia2"></activity>
-        <activity android:name=".Independencia3"></activity>
-        <activity android:name=".Independencia4"></activity>
-        <activity android:name=".Resultados"></activity>
+        <activity android:name="Bienvenida"></activity>
+        <activity android:name="Independencia1"></activity>
+        <activity android:name="Independencia2"></activity>
+        <activity android:name="Independencia3"></activity>
+        <activity android:name="Independencia4"></activity>
+        <activity android:name="Resultados"></activity>
     </application>
 
 </manifest>
