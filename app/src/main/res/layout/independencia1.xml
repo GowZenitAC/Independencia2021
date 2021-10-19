@@ -45,6 +45,6 @@
         android:layout_height="wrap_content"
         android:onClick="independencia2"
         android:text="Siguiente"
-        tools:ignore="UsingOnClickInXml" />
+        tools:ignore="UsingOnClickInXml"/>
 
 </LinearLayout>
